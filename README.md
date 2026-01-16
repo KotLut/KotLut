@@ -18,9 +18,8 @@
 
 ## 🛠 Технологии
 
-### Backend / Tools
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white)
 
